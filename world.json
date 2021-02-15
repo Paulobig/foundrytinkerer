@@ -1,0 +1,94 @@
+{
+  "name": "wdh",
+  "title": "Waterdeep Dragon Heist",
+  "description": "<h2>WELCOME TO WATERDEEP!</h2>\n<p>A fantastic treasure trove is yours for the taking in this adventure for the world's greatest roleplaying game.</p>\n<p>Famed explorer Volothamp Geddarm needs you to complete a simple quest. Thus begins a mad romp through the wards of Waterdeep as you uncover a villainous plot involving some of the city’s most influential figures.</p>\n<p>A grand urban caper awaits you. Pit your skill and bravado against villains the likes of which you’ve never faced before, and let the dragon hunt begin!</p>\n<ul>\n<li>Waterdeep, known as the City of Splendors, is one of D&amp;D’s most iconic locations. Also the setting for the board game Lords of Waterdeeep, it’s the jewel of the Sword Coast—a sprawling melting pot held together by firm laws and swift justice.</li>\n<li>Take players through levels one to five in this Dungeons &amp; Dragons adventure. Five story arcs guide players through each level for a multi-session campaign experience inspired by classic heist films.</li>\n<li>In D&amp;D, you and your friends coauthor you own legend. Guided by a Dungeon Master, you create characters and play their roles in a story, rolling dice and navigating maps as you unfold a tale as limitless as your imagination.</li>\n<li>Dungeons &amp; Dragons is the world’s greatest roleplaying game. Created in 1974, D&amp;D transformed gaming culture by blending traditional fantasy with miniatures and wargaming.</li>\n</ul>\n<p> </p>\n<blockquote>\n<p>“[Waterdeep: Dragon Heist] is state of the art tabletop design. . .one of the best introductions to D&amp;D that I’ve ever come across.”</p>\n</blockquote>\n<p style=\"text-align:right\">—Charlie Hall, Polygon.com</p>\n<p style=\"text-align:right\"> </p>\n<blockquote>\n<p>“Waterdeep: Dragon Heist is a shining example of what Dungeons &amp; Dragons can be and should be: fun and unpredictable.”</p>\n</blockquote>\n<p style=\"text-align:right\">—Gavin Sheehan, BleedingCool.com</p>\n<p> </p>\n<h4>Product Information</h4>\n<blockquote>\n<p>System: <strong>D&amp;D 5E (Forgotten Realms)</strong></p>\n<p>Starting Level: <strong>Low (1-5)</strong></p>\n<p>Length: <strong>Short Campaign</strong></p>\n</blockquote>\n<p> </p>\n<p> </p>\n<hr />\n<p><strong>DISCLAIMER:</strong> The use of this is meant for use for your personal use, and only if you legally possess such in accordance with your local laws.</p>\n<h6>Imported from Roll20 using R20Converter</h6>",
+	"version": "0.1.2",
+	"coreVersion": "0.6.6",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.7.0",
+	"scripts": ["./checkdependencies.js"],
+	"dependencies": [
+		{
+			"name": "plutonium",
+			"manifest": "https://get.5e.tools/plutonium/module.json",
+			"version": "1.7.0",
+			"author": "Giddy"
+		},
+		{
+			"name": "DancingLights",
+			"manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-DancingLights/master/module.json",
+			"version": "2.1.5",
+			"author": "Blitzkraig"
+		},
+		{
+			"name": "multilevel-tokens",
+			"manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/v0.3.0/module.json",
+			"version": "0.4.0",
+			"author": "grandseiken"
+		},
+		{
+			"name": "parallaxia",
+			"manifest": "https://gitlab.com/reichler/parallaxia/raw/master/parallaxia/module.json",
+			"version": "0.2.9",
+			"author": "wonko"
+		},
+		{
+			"name": "teleport",
+			"manifest": "https://raw.githubusercontent.com/knassher/FVTT-Teleport/master/module.json",
+			"version": "2.1.7",
+			"author": "knassher"
+		},
+		{
+			"name": "polyglot",
+			"manifest": "",
+			"version": "1.1.2",
+			"author": "KaKaRoTo"
+		},
+		{
+			"name": "Token HUD Wildcard",
+			"manifest": "https://raw.githubusercontent.com/javieros105/FVTT-TokenHUDWildcard/master/token-hud-wildcard/module.json",
+			"version": "1.0.0",
+			"author": "javieros"
+		}
+	],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+	"authors": [
+		"WotC",
+		"R20Converter"
+	],
+  "keywords": [
+    "adventure",
+    "campaign",
+    "NPC",
+    "characters",
+    "forgotten realms",
+    "waterdeep",
+		"town",
+		"content packs"
+  ],
+  "socket": false,
+  "license": "",
+  "bugs": "",
+  "id": "wdh",
+  "unavailable": false,
+  "availability": 0,
+	"system": "dnd5e",
+	"systemVersion": 0.96,
+	"minimumSystemVersion": "0.90",
+	"compatibleSystemVersion": "0.96",
+	"readme": "README.md",
+	"changelog": "https://wiki.5e.tools/index.php/Foundry:Changelog_Adventures",
+	"manifest": "https://foundry.5e.tools/plutonium/wdh/world.json",
+	"download": "https://foundry.5e.tools/plutonium/wdh/wdh.zip",
+  "background": "worlds/wdh/scenes/backgrounds/StartLogin.png",
+  "nextSession": ""
+}
