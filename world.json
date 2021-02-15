@@ -86,9 +86,9 @@
 	"minimumSystemVersion": "0.90",
 	"compatibleSystemVersion": "0.96",
 	"readme": "README.md",
-	"changelog": "https://wiki.5e.tools/index.php/Foundry:Changelog_Adventures",
-	"manifest": "https://foundry.5e.tools/plutonium/wdh/world.json",
-	"download": "https://foundry.5e.tools/plutonium/wdh/wdh.zip",
+	"changelog": "https://github.com/Paulobig/foundrytinkerer",
+	"manifest": "https://raw.githubusercontent.com/Paulobig/foundrytinkerer/main/world.json",
+	"download": "https://github.com/Paulobig/foundrytinkerer/raw/main/wdh.zip",
   "background": "worlds/wdh/scenes/backgrounds/StartLogin.png",
   "nextSession": ""
 }
